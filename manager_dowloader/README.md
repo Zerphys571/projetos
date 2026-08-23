@@ -7,3 +7,5 @@ Para que o **Organizador de Downloads** comece a monitorar a pasta assim que voc
 3.  Cole um atalho do arquivo `organizer.exe` dentro dessa pasta.
 
 Agora na próxima vez que o sistema iniciar, o programa será executado em segundo plano e exibirá a notificação de confirmação.
+
+# Está é apenas a primeira versão deste pequeno projeto
